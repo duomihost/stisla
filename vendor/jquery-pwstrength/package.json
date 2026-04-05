@@ -1,0 +1,7 @@
+{
+  "name": "jquery-pwstrength",
+  "version": "1.0.0-vendored",
+  "description": "Vendored from https://github.com/matoilic/jquery.pwstrength (no package.json upstream)",
+  "main": "jquery.pwstrength.min.js",
+  "license": "MIT"
+}

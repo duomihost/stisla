@@ -1,0 +1,6 @@
+{
+  "name": "jquery_upload_preview",
+  "version": "1.0.0-vendored",
+  "description": "Vendored from https://github.com/opoloo/jquery_upload_preview (no package.json upstream)",
+  "license": "MIT"
+}
